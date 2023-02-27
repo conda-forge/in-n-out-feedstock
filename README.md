@@ -1,15 +1,15 @@
-About in-n-out
-==============
-
-Home: https://github.com/pyapp-kit/in-n-out
-
-Package license: BSD-3-Clause
+About in-n-out-feedstock
+========================
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/in-n-out-feedstock/blob/main/LICENSE.txt)
 
+Home: https://github.com/tlambert03/in-n-out
+
+Package license: BSD-3-Clause
+
 Summary: Python dependency injection you can taste
 
-Development: https://github.com/pyapp-kit/in-n-out
+Development: https://github.com/tlambert03/in-n-out
 
 Current build status
 ====================
